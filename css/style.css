@@ -1,0 +1,224 @@
+body
+{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1,h2,h3
+{
+  font-size: 1.5rem;
+  font-weight: bolder;
+  font-family: 'Girassol', cursive;
+  text-align: center;
+}
+/* 
+font-family: 'Girassol', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
+
+/* Header styles */
+
+.header-icon
+{
+  width: 90px;
+  padding-right: 30px;
+
+}
+
+#header
+{
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+
+.navbar
+{
+  /* padding: 0 0 4.5rem; */
+  padding: 0 1rem ;
+  /* position: fixed; */
+  
+}
+
+
+
+
+.nav-item
+{
+  padding: 0 18px;
+  margin-left: 30%;
+}
+
+
+
+.nav-link
+{
+  
+  font-size: 1.2rem;
+
+}
+
+.nav-link:hover
+{
+  background-color: grey;
+  border-radius: 10%;
+}
+
+/* title styles */
+
+
+
+
+.title-heading
+{
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  font-family: 'Girassol', cursive;
+  padding-top: 40%;
+  text-align: center;
+}
+
+.title-p
+{
+  text-align: center;
+  line-height: 1.5;
+  font-size: 2 rem;
+}
+
+.container-fluid
+{
+  padding: 3% 15% 7%;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+
+.title-img
+{
+
+  width: 135%;
+  border-radius: 10%;
+}
+
+/* about style */
+
+.about-container
+{
+  font-size: 1rem;
+  padding: 2% 5% ;
+  text-align: center;
+
+}
+
+#about h2
+{
+color: #fff;
+padding-top: 30px;
+font-size: 50px;
+
+}
+
+.about-icon:hover
+{
+color:#b6a2a2;
+}
+
+.about-list
+{
+  text-align: left;
+  padding-left: 100px;
+}
+
+/* Services */
+
+
+#services
+{
+  background-color: #fff;
+}
+
+#services h5
+{
+  font-family: 'Girassol', cursive;
+  font-size: 40px;
+
+}
+
+/* partners */
+
+#partners .partner-container
+{
+  margin: 10% 15% 10% 15%;
+  background-color: #222831;
+  border-radius: 10%;
+}
+
+#partners .container
+{
+  background-color: #222831;
+  color: #fff;
+  width: 65%;
+  text-align: center;
+}
+
+#partners .display-4
+{
+  font-size: 30px;
+  margin: 10% 1%;
+}
+
+.partner-img
+{
+  height: 90px;
+  width: 90px;
+/* margin-left: 15%; */
+background-color: #fff;
+border-radius: 20%;
+}
+
+#partners h2
+{
+color: #fff;
+padding-top: 30px;
+font-size: 50px;
+
+}
+
+/* contact */
+
+#contact
+{
+  text-align: center;
+}
+
+.contact-icon
+{
+margin-top: 2%;
+}
+.contact-icon:hover
+{
+color:#b6a2a2;
+}
+
+/* footer */
+
+.bottom-container
+{
+  color: #fff;
+  text-align: center;
+  padding: 2% 3%;
+}
+
+.footer-link
+{
+  color: #fff;
+  text-decoration: underline;
+
+}
+
+.footer-link:hover
+{
+  color: #b6a2a2;
+}
