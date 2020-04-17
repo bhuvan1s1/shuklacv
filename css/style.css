@@ -136,7 +136,7 @@ color:#b6a2a2;
 
 #services
 {
-  background-color: #fff;
+  background-color: #000000;
 }
 
 #services h5
@@ -144,6 +144,11 @@ color:#b6a2a2;
   font-family: 'Girassol', cursive;
   font-size: 40px;
 
+}
+
+.srv-img
+{
+  width: 100%;
 }
 
 /* partners */
